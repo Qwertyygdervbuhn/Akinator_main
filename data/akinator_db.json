@@ -1,0 +1,220 @@
+{
+    "text": "Ваш персонаж реальный человек?",
+    "is_character": false,
+    "yes": {
+        "text": "Ваш персонаж мужчина?",
+        "is_character": false,
+        "yes": {
+            "text": "Он связан с Ютубом или блогерством?",
+            "is_character": false,
+            "yes": {
+                "text": "Это русскоязычный блогер/стример?",
+                "is_character": false,
+                "yes": {
+                    "text": "Он известен своими летсплеями?",
+                    "is_character": false,
+                    "yes": {
+                        "text": "Куплинов (Kuplinov Play)",
+                        "is_character": true
+                    },
+                    "no": {
+                        "text": "Влад А4",
+                        "is_character": true
+                    }
+                },
+                "no": {
+                    "text": "У него самый популярный канал на Ютубе в мире?",
+                    "is_character": false,
+                    "yes": {
+                        "text": "MrBeast (Мистер Бист)",
+                        "is_character": true
+                    },
+                    "no": {
+                        "text": "IShowSpeed",
+                        "is_character": true
+                    }
+                }
+            },
+            "no": {
+                "text": "Он профессиональный спортсмен?",
+                "is_character": false,
+                "yes": {
+                    "text": "Он играет в футбол?",
+                    "is_character": false,
+                    "yes": {
+                        "text": "Лионель Месси",
+                        "is_character": true
+                    },
+                    "no": {
+                        "text": "Конор Макгрегор",
+                        "is_character": true
+                    }
+                },
+                "no": {
+                    "text": "Он занимается технологиями или миллиардер?",
+                    "is_character": false,
+                    "yes": {
+                        "text": "Илон Маск",
+                        "is_character": true
+                    },
+                    "no": {
+                        "text": "Этот мужчина актер кино?",
+                        "is_character": false,
+                        "yes": {
+                            "text": "Райан Гослинг",
+                            "is_character": true
+                        },
+                        "no": {
+                            "text": "Алишер Моргенштерн",
+                            "is_character": true
+                        }
+                    }
+                }
+            }
+        },
+        "no": {
+            "text": "Она профессионально поет песни (певица)?",
+            "is_character": false,
+            "yes": {
+                "text": "Билли Айлиш",
+                "is_character": true
+            },
+            "no": {
+                "text": "Она имеет отношение к королевской семье?",
+                "is_character": false,
+                "yes": {
+                    "text": "Королева Елизавета II",
+                    "is_character": true
+                },
+                "no": {
+                    "text": "Мэрилин Монро",
+                    "is_character": true
+                }
+            }
+        }
+    },
+    "no": {
+        "text": "Этот персонаж из японского аниме?",
+        "is_character": false,
+        "yes": {
+            "text": "У него яркие желтые волосы и он хочет стать Хокаге?",
+            "is_character": false,
+            "yes": {
+                "text": "Наруто Узумаки",
+                "is_character": true
+            },
+            "no": {
+                "text": "Этот персонаж — ниндзя в маске, закрывающей пол-лица?",
+                "is_character": false,
+                "yes": {
+                    "text": "Какаши Хатаке",
+                    "is_character": true
+                },
+                "no": {
+                    "text": "Он обладает силой 'Тетради смерти'?",
+                    "is_character": false,
+                    "yes": {
+                        "text": "Ягами Лайт",
+                        "is_character": true
+                    },
+                    "no": {
+                        "text": "Леви Аккерман (Атака Титанов)",
+                        "is_character": true
+                    }
+                }
+            }
+        },
+        "no": {
+            "text": "Этот персонаж изначально из компьютерной игры?",
+            "is_character": false,
+            "yes": {
+                "text": "Это культовый водопроводчик в красной кепке?",
+                "is_character": false,
+                "yes": {
+                    "text": "Марио",
+                    "is_character": true
+                },
+                "no": {
+                    "text": "Это суровый ведьмак с двумя мечами за спиной?",
+                    "is_character": false,
+                    "yes": {
+                        "text": "Геральт из Ривии",
+                        "is_character": true
+                    },
+                    "no": {
+                        "text": "Он квадратный и состоит из блоков?",
+                        "is_character": false,
+                        "yes": {
+                            "text": "Стив (Minecraft)",
+                            "is_character": true
+                        },
+                        "no": {
+                            "text": "Кратос (God of War)",
+                            "is_character": true
+                        }
+                    }
+                }
+            },
+            "no": {
+                "text": "Он из мультфильма?",
+                "is_character": false,
+                "yes": {
+                    "text": "Он большой, зеленый и живет на болоте?",
+                    "is_character": false,
+                    "yes": {
+                        "text": "Шрек",
+                        "is_character": true
+                    },
+                    "no": {
+                        "text": "Это желтая губка, которая живет на дне океана?",
+                        "is_character": false,
+                        "yes": {
+                            "text": "Губка Боб Квадратные Штаны",
+                            "is_character": true
+                        },
+                        "no": {
+                            "text": "Это говорящий пес, который расследует мистику?",
+                            "is_character": false,
+                            "yes": {
+                                "text": "Скуби-Ду",
+                                "is_character": true
+                            },
+                            "no": {
+                                "text": "Молния Маккуин (Тачки)",
+                                "is_character": true
+                            }
+                        }
+                    }
+                },
+                "no": {
+                    "text": "Это супергерой в костюме красно-синего цвета?",
+                    "is_character": false,
+                    "yes": {
+                        "text": "Человек-Паук (Питер Паркер)",
+                        "is_character": true
+                    },
+                    "no": {
+                        "text": "Это мальчик со шрамом в виде молнии?",
+                        "is_character": false,
+                        "yes": {
+                            "text": "Гарри Поттер",
+                            "is_character": true
+                        },
+                        "no": {
+                            "text": "Это круглый хлеб из сказки?",
+                            "is_character": false,
+                            "yes": {
+                                "text": "Колобок",
+                                "is_character": true
+                            },
+                            "no": {
+                                "text": "Бэтмен (Брюс Уэйн)",
+                                "is_character": true
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

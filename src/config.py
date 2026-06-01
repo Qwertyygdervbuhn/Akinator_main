@@ -1,0 +1,3 @@
+DB_FILENAME = "../data/akinator_db.json"
+MAX_QUESTIONS = 20
+BOT_TOKEN = "8995044183:AAFLJgkcyiayA8cyVBRwXF9_yZ-Txh647Sc"
